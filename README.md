@@ -1,7 +1,10 @@
 # RTCbasis
+Implemented calendar application with Real-time clock. Added back up configuration with use of Backup RTC register, also added D2 LED to show when microcontroller is backing up data 
 
+## RTC Configuration 
+![image](https://github.com/user-attachments/assets/6d12768a-9193-4c2c-a773-12c65a4d5638)
 
-## Clock configuration
+## Clock Configuration
 ![image](https://github.com/user-attachments/assets/c18dae68-823e-4c05-915c-a5cc42a0d47a)
 
 ## Variables sTime and sDate
